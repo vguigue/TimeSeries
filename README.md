@@ -28,10 +28,10 @@ __Every notebook is self contained, datasets are small enough and already unzipp
 ## Colab links:
 
 - TS1: `pandas` tutorial, why it is an important tool to deal with time series 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nJJ6tuv_3a1jdkzZ9AWjFK9XFhHOM7Vp?usp=sharing)
 - TS2: historical approaches in time series, from exponential filtering to Meta-Prophet
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IyzYFy_zqEhiDPe-xGUafkvBQk9TQfBO?usp=sharing)
 - TS3: Machine learning & time series, processing chain & traps
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uZ_58Jk7nhiSZ7Pn6fGERpPzpETDhRFR?usp=sharing)
 - TS4: Deep learning architecture for time series, first steps
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F1YjDBHDnFNDy5KfpFb8xx2mut8P9euL?usp=sharing)
